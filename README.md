@@ -22,6 +22,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 技术实现
 vue2.0
+
 vue-router
+
 better-scroll
+
 stylus
